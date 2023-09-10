@@ -1,8 +1,8 @@
 # Basic
-title: Vno Jekyll
-subtitle: A blog-orientation theme for Jekyll
+title: 黄伟春
+subtitle: 黄伟春的私密空间
 welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
+description: 这里只放了我学习的资料啦
 creator: <a href="http://onev.cat">@onevcat</a>
 
 url: "http://vno.onevcat.com"
@@ -37,10 +37,10 @@ comment:
     
 # Social
 social:
-    weibo: onevcat
+    weibo: 
     github: huangweichun1997
-    twitter: onevcat
-    gplus: 107108267983477358170
+    twitter: 
+    gplus: 
     mail: huangweichun1997@gmail.com
 
 # Google Analytics
